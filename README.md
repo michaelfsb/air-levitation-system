@@ -1,13 +1,18 @@
-# Sistema de Levitação a Ar
+# Sistema de Levitação a Ar 
 
-Código desenvolvido para o projeto da disciplina Sistemas Não-Lineares (DAS410071), ministrada pelo Professor Daniel Juan Paganodo Centro Tecnológico da Universidade Federal de Santa Catarina.
+Código desenvolvido para o projeto da disciplina Sistemas Não-Lineares (DAS410071) no [Programa de Pós-Graduação em Engenharia de Automação e Sistemas](https://posautomacao.ufsc.br/) da UFSC.
+Disciplina ministrada pelo Professor Daniel Juan Paganodo em 2021/1.
+
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=michaelfsb/air-levitation-system&file=Matlab/bola_levitador.mdl)
 
 ## Dependências
  
+To rum the simlations:
 - [MATLAB](https://www.mathworks.com/products/matlab.html) R2021a
   - [Simulink](https://www.mathworks.com/products/simulink.html) R2021b
   - [Simulink 3D Animation](https://www.mathworks.com/products/3d-animation.html) R2021b
 
+To edit the 3D models:
 - [SOLIDWORKS](https://www.solidworks.com/) 2017
 
 ## Simulações
