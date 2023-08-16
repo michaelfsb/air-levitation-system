@@ -1,7 +1,7 @@
 # Sistema de Levitação a Ar 
 
 Código desenvolvido para o projeto da disciplina Sistemas Não-Lineares (DAS410071) no [Programa de Pós-Graduação em Engenharia de Automação e Sistemas](https://posautomacao.ufsc.br/) da UFSC.
-Disciplina ministrada pelo Professor Daniel Juan Paganodo em 2021/1.
+Disciplina ministrada pelo Professor Daniel Juan Paganodo no segundo semestre de 2021.
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=michaelfsb/air-levitation-system&file=Matlab/bola_levitador.mdl)
 
